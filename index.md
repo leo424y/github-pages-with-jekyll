@@ -1,5 +1,6 @@
 ---
 title: "Welcome to my blog!"
+date: 2021-04-27
 ---
 
-I'm glad you are here. I plan to talk about ...
+Not bad.
